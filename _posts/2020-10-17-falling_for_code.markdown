@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Falling for Code**"
+title:      "Falling for Code"
 date:       2020-10-17 19:09:37 -0400
 permalink:  falling_for_code
 ---
